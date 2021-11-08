@@ -4,7 +4,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Task6 {
-    private static final int MAX_NUMBER = 20;
     public static void main(String[] args) {
         System.out.println("Enter your numbers");
         Scanner scanner = new Scanner(System.in);
